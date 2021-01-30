@@ -17,7 +17,7 @@
 
 ## How to run
 1.  Open your command promt or any CLI
-2.  Clone this repo using `git clone https://github.com/Rpetz13/fetch-api-javascript.git <YOUR_PROJECT_NAME>`<br/>
+2.  Clone this repo using `git clone https://github.com/rpetzandrian/fetch-api-javascript.git <YOUR_PROJECT_NAME>`<br/>
 3.  Enter the project directory `cd <YOUR_PROJECT_NAME>`.<br />
 4.  Open code editor `code .`<br />
 5.  Run `index.html` and let's explore
