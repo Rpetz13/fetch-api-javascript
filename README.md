@@ -7,8 +7,11 @@
 
 <br />
 
+## Javascript
+<div>Javascript is a programming language that is popular among developers. Initially javascript only runs on the client side, but now javascript can run on the server side. JavaScript was created and designed in ten days by Brandan Eich, a Netscape employee, in September 1995.</div>
+
 ## Tools
-<div><strong>Some of equipments that I use in this case, They are : </strong></div>
+<div><strong>Some of tools that I use in this case, They are : </strong></div>
 
 - HTML
 - CSS
