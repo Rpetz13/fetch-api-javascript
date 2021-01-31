@@ -2,18 +2,18 @@
 
 <br />
 
-<div align="center"><strong>Fetch data API with Javascript</strong></div>
+<div align="center"><strong>Fetch data API in Javascript</strong></div>
 <div align="center">The basic ways to get data from API with Javascript</div>
 
 <br />
 
-## Environment
+## Tools
 <div><strong>Some of equipments that I use in this case, They are : </strong></div>
 
 - HTML
 - CSS
-- Bootstrap for styling
 - Javascript
+- Bootstrap for styling
 
 ## How to run
 1.  Open your command promt or any CLI
