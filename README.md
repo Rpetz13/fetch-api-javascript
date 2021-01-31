@@ -14,6 +14,7 @@
 - CSS
 - Javascript
 - Bootstrap for styling
+- JSON Placeholder
 
 ## How to run
 1.  Open your command promt or any CLI
@@ -28,3 +29,4 @@
 
 - <a href='https://dev.to/attacomsian/introduction-to-javascript-fetch-api-4f4c'>dev.to</a>
 - <a href='https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch'>developer.mozzila.org</a>
+- <a href='https://jsonplaceholder.typicode.com/'>JSON Placeholder</a>
