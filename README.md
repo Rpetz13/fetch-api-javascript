@@ -12,7 +12,7 @@
 
 <br />
 
-##About This Project
+## About This Project
 <div>This project is a simple how to fetch data using Javascript. This project is only use Javascript.<div>
 
 ## Tools
