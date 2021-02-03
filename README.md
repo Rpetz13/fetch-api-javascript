@@ -10,6 +10,8 @@
 ## Javascript
 <div>Javascript is a programming language that is popular among developers. Initially javascript only runs on the client side, but now javascript can run on the server side. JavaScript was created and designed in ten days by Brandan Eich, a Netscape employee, in September 1995.</div>
 
+<br />
+
 ##About This Project
 <div>This project is a simple how to fetch data using Javascript. This project is only use Javascript.<div>
 
