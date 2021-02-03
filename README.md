@@ -38,4 +38,4 @@
 - <a href='https://jsonplaceholder.typicode.com/'>JSON Placeholder</a>
 
 ##Author
-- Github : <a href:'https://github.com/rpetzandrian'>Rico Andrian Firmansyah</a>
+- Github : <a href='https://github.com/rpetzandrian'>Rico Andrian Firmansyah</a>
