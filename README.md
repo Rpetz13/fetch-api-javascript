@@ -39,5 +39,5 @@
 - <a href='https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch'>developer.mozzila.org</a>
 - <a href='https://jsonplaceholder.typicode.com/'>JSON Placeholder</a>
 
-##Author
+## Author
 - Github : <a href='https://github.com/rpetzandrian'>Rico Andrian Firmansyah</a>
